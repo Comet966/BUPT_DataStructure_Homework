@@ -2,4 +2,4 @@
 ### .pdf文件是作业要求  
 运行结果:  
 #### 转置
-![转置](.\images\outcome_1.png)  
+![转置](./images/outcome_1.png)  
